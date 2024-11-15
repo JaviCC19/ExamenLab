@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabClase12</string>
+    <string name="retry">Retry</string>
+    <string name="getting_data">Getting Data\n</string>
+    <string name="error_fetching_data">Error FetchingData</string>
+    <string name="no_internect_connection">No Tienes conexion a internet\n</string>
+</resources>
